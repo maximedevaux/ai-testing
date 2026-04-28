@@ -1,3 +1,3 @@
 init
-clea n
+clean
 deploy .md
